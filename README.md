@@ -1,2 +1,2 @@
 # ContextDemo
-A demo showing the difference of getApplicationContext() and getBaseContext()
+A demo showing the difference between getApplicationContext() and getBaseContext()
